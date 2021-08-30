@@ -106,7 +106,7 @@
 #define SEC_PARAM_MAX_KEY_SIZE          16                                      //!< Maximum encryption key size.
 
 #define APP_ADV_FAST_INTERVAL           0x0028                                  //!< Fast advertising interval (in units of 0.625 ms. This value corresponds to 25 ms.).
-#define APP_ADV_DURATION                0x03E8                                   //!< The advertising duration (20 seconds) in units of 10 milliseconds.
+#define APP_ADV_DURATION                0x0BB8                                   //!< The advertising duration (20 seconds) in units of 10 milliseconds.
 
 #define MEM_BUFF_SIZE                   512
 #define DEAD_BEEF                       0xDEADBEEF                              //!< Value used as error code on stack dump, can be used to identify stack location on stack unwind.
