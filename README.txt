@@ -1,6 +1,7 @@
 Simulateur Ecran vélo Bluetooth
 
 But de ce simulateur : Le but de ce simulateur est d’offrir un moyen de test pour développer la test APP pour le premier livrable : Advertising et connexion notamment : pour tester le processus de bonding souhaité par Decathlon, ainsi que pour récupérer les informations advertising souhaités par Decathlon, la partie Whitelisting est implémentée ici mais DPE (fournisseur)  rencontre des problèmes pour l’implémenter actuellement sur le produit final, le produit final se comportera donc peut-être différemment à ce niveau-là. 
+
 Comportement de la carte : 
 Lors d’un démarrage usine, le système advertise pas (whiteliste vide)
 Un appuie long sur le bouton 4 permet d’advertiser et d’accepter un nouveau téléphone
